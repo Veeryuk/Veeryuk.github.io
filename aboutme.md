@@ -15,6 +15,6 @@ I am Nova R. I do a lot with FIRST Robotics including:
 
 ### Introduction
 
-Hi I am Nova R.
+Hi, I am Nova R.
 
 I am a non-binary gay individual living inside of Texas temporarily with my partner. I am a Electrical Engineering Technology Major and I love spending as much time as I can with FRC. I spend most of my days at my internship in Texas with my weekends either doing robotics competitions or just relaxing with my partner.
