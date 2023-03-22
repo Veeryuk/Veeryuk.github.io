@@ -20,7 +20,7 @@ author: Nova R. - Themby of Chaos
 ###############################################
 
 navbar-links:
-  About Me: "I am Nova Rudy, the maker of this website."
+  About Me: "aboutme.md"
   Resources:
     # - Beautiful Jekyll: ""
   #  - Learn markdown: "https://www.markdowntutorial.com/"
