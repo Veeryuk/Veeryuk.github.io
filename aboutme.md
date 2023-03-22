@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Who Am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Nova R. I do a lot with FIRST Robotics including:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- FRC Alumni (2017-2021)
+- FRC Mentor (2022-Present)
+- FRC CSA (2023-Present)
+- FTC FTA (2023-Present)
+- Unofficial FRC Discord Admin (2022-Present)
+- LGBTQ+ of FIRST Ambassador (2020-Present)
 
-What else do you need?
+### Introduction
 
-### My story
+Hi I am Nova R.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a non-binary gay individual living inside of Texas temporarily with my partner. I am a Electrical Engineering Technology Major and I love spending as much time as I can with FRC. I spend most of my days at my internship in Texas with my weekends either doing robotics competitions or just relaxing with my partner.
