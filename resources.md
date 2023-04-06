@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: LGBTQ+ Resources
 subtitle: Resources for the LGBTQ of FIRST Commmunity
 tags: [Resources]
