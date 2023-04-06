@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Trans Lives Matter
+title: Protect Transgender and GnC Lives
 
 # Your name to show in the footer
 author: Nova R. - Themby of Chaos
@@ -20,10 +20,10 @@ author: Nova R. - Themby of Chaos
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   LGBTQ+ of FIRST Resources: "resources"
-    # - Beautiful Jekyll: ""
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Link to Survey: "https://forms.gle/E6ZTcRxFPmGHtszg7"
+  LGBTQ+ of FIRST Organization: "https://lgbtqoffirst.weebly.com/"
 
 ################
 # --- Logo --- #
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "FIRST.LGBT"
+# url-pretty: "FIRST.LGBT"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -108,7 +108,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
