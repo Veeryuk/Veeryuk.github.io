@@ -281,7 +281,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - 2023-04-05-Why-Was-This-Created.md
+  - _posts
 
 plugins:
   - jekyll-paginate
