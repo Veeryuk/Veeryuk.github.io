@@ -17,5 +17,9 @@ Show that pronouns are something we should care about because it can affect a pe
 Show that your team is committed to making sure that FIRST is a safe and welcoming environment for all, even in hostile states like Texas. Having these signs up says thatyour team is inclusive of LGBTQ+ identities and that your team will continue to make sure that any LGBTQ+ person is able to be themselves on the team or even if they are talking to your team.
 ### Continue putting pressure on FIRST via letter drafting and email writing.
 Show FIRST that this isn’t a small minority of people that are going to lay down and give up, that we will continue to fight until transgender and GnC students are safe at the FIRST World Championship.
-### Spread the Google Form
-The more information and survey answers I get, the better I can understand how we can support out LGBTQ+ students, mentors, alumni, and volunteers. 
+### Spread the Google Form.
+The more information and survey answers I get, the better I can understand how we can support out LGBTQ+ students, mentors, alumni, and volunteers. We as a community must stand together to support our LGBTQ+ FIRST Community, hear their voices and concerns about FIRST World Championship and, learn how to support them and make them safe at the FIRST World Championship.
+
+I will be continuing to update this blog post as much as I can with any more information I get from the Google Form. Thank you so much for listening to the LGBTQ+ FIRST Community and I hope to see some of these suggestions done at the FIRST World Championship!
+
+-- Nova Rudy (Your Local Themby of Chaos)
