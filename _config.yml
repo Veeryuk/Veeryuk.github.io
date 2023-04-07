@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Protect Transgender and GnC Lives
+title: Protect Transgender and Gender non-Conforming Lives
 
 # Your name to show in the footer
 author: Nova R. - Themby of Chaos
@@ -281,7 +281,6 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - 2023-04-05-Why-Was-This-Created.md
 
 plugins:
   - jekyll-paginate
