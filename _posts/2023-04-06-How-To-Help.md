@@ -14,7 +14,7 @@ Having this would allow anyone who is questioning their identity to get resource
 ### Promote wearing pronoun badges as normality.
 Show that pronouns are something we should care about because they can affect a person's mental health if they are called by the correct pronouns. Have people on your teams wear them, they should be given out by pit admin at Champs. **(This does not mean to out people. If people don’t want to be outed, don’t force them to be out or to come out.)**
 ### Hang signs up within your teams' pit saying that discrimination of any kind is prohibited and/or that their pit is a safe space for all LGBTQ+ people.
-Show that your team is committed to making sure that FIRST is a safe and welcoming environment for all, even in hostile states like Texas. Having these signs up says that your team is inclusive of LGBTQ+ identities and that your team will continue to make sure that any LGBTQ+ person is able to be themselves on the team or even if they are talking to your team.
+Show that your team is committed to making sure that FIRST is a safe and welcoming environment for all, even in hostile states like Texas. Having these signs up says that your team is inclusive of LGBTQ+ identities and that your team will continue to make sure that any LGBTQ+ person can be themselves on the team or even if they are talking to your team.
 ### Continue putting pressure on FIRST via letter drafting and email writing.
 Show FIRST that this isn’t a small minority of people that are going to lay down and give up, and that we will continue to fight until transgender and GnC students are safe at the FIRST World Championship.
 ### Spread the Google Form.
