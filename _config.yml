@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Protect Transgender and Gender non-Conforming Lives
+title: Protect Transgender and GnC Lives
 
 # Your name to show in the footer
 author: Nova R. - Themby of Chaos
@@ -22,6 +22,7 @@ author: Nova R. - Themby of Chaos
 navbar-links:
   #About Me: "aboutme"
   LGBTQ+ of FIRST Crisis Resources: "resources"
+  LGBTQ+ of FIRST Resources: https://docs.google.com/spreadsheets/d/1iQ6fYw1kBqHpMyeCnl3Vv1cVyXlXWwcdtCeuPKuug2g/edit
   Link to Survey: "https://forms.gle/E6ZTcRxFPmGHtszg7"
   LGBTQ+ of FIRST Organization: "https://lgbtqoffirst.weebly.com/"
 

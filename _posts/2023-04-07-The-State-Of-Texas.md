@@ -5,6 +5,10 @@ title: What Is Happening In The State of Texas?
 tags: [Advocacy]
 comments: false
 ---
+
+{: .box-warning}
+**Content Warning:** This blog post contains a lot of transphobia, transphobic and anti-LGBTQ+ laws and rhetoric as it talks about the current bill and laws of the state of Texas.
+
 If you have been following any of the Chief Delphi posts that have been floating around, you may be aware that the state of Texas is not a safe place for LGBTQ+ Students. Here is a condensed list of all of the current bills, news links, current laws, and, anything else that pertains to LGBTQ+ rights in the State of Texas. This post is going to highlight some of the bills that are currently in the Texas State Legislature. There are currently 57 anti-transgender bills proposed for this legislative session alone. [Here is a map with all anti-transgender bills inside of the United States with each of them listed](https://www.tracktranslegislation.com/)
 
 
