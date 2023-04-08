@@ -74,7 +74,9 @@ The text below is directly from the bill:
 
 This just allows for discrimination of transgender and gender non-conforming people inside of health care if it goes against someone’s moral philosophy or ethical position. Meaning that if I or any other transgender or gender non-conforming person got hurt at Champs or anywhere in Texas and needed to go to the hospital, there’s a chance I could be denied help and would have to wait to have a doctor comfortable to work with me. This bill does not allow for denial of emergency care or life-sustaining treatment however, in Sec. 161.703, physicians and health care providers have immunity from civil or criminal liability if they decline to participate due to reasons of conscience.
 
-Now, these are only 4 *of the 57 proposed bills* so far for this legislative session. All of these could or could not pass, I don't know and won't know until they get put into a vote. However, I do know all 4 of these potential laws would go into effect for the 2024 and 2025 FIRST World Championship. All of these bills if they passed would make Texas an even less safe state for trans and GnC people, especially ones who are students and are in FIRST.
+Now, these are only 4 *of the 57 proposed anti-transgender bills* so far for this legislative session. All of these could or could not pass, I don't know and won't know until they get put into a vote. However, I do know all 4 of these potential laws would go into effect for the 2024 and 2025 FIRST World Championship. All of these bills if they passed would make Texas an even less safe state for trans and GnC people, especially ones who are students and are in FIRST.
+
+I have also found a list of anti-LGBTQ+ bills that have been filed inside the Texas State Legislature. The current count is *140 bills*. The list of all of these bills can be found on the [Equality Texas website](https://www.equalitytexas.org/legislature/legislative-bill-tracker-2023/).
 
 # LGBTQ+ Equality Map
 
