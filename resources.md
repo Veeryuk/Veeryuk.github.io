@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LGBTQ+ Crisis Resources
-subtitle: Resources for the LGBTQ+ of FIRST Commmunity
+subtitle: Crisis Resources for the LGBTQ+ of FIRST Commmunity
 tags: [Resources]
 comments: false
 ---
